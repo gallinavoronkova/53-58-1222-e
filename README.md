@@ -1,2 +1,4 @@
 # 53-58-1222-e
-Git practice
+Git practice.
+
+Added changes.
